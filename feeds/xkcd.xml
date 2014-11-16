@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>xkcd.com</title>
+		<link>http://xkcd.com/</link>
+		<description>xkcd.com: A webcomic of romance and math humor.</description>
+		<language>en</language>
+		<item>
+			<title>Turnabout</title>
+			<link>http://xkcd.com/1441/</link>
+			<description>&lt;img src="http://imgs.xkcd.com/comics/turnabout.png" title="Whenever I miss a shot with a sci-fi weapon, I say 'Apollo retroreflector' really fast, just in case." alt="Whenever I miss a shot with a sci-fi weapon, I say 'Apollo retroreflector' really fast, just in case." /&gt;</description>
+			<pubDate>Fri, 31 Oct 2014 04:00:00 -0000</pubDate>
+			<guid>http://xkcd.com/1441/</guid>
+		</item>
+		<item>
+			<title>Geese</title><link>http://xkcd.com/1440/</link><description>&lt;img src="http://imgs.xkcd.com/comics/geese.png" title="Anyway, that's a common misconception. Geese live for a long time; all the ones we can see will probably keep flying around for billions of years before they explode." alt="Anyway, that's a common misconception. Geese live for a long time; all the ones we can see will probably keep flying around for billions of years before they explode." /&gt;</description><pubDate>Wed, 29 Oct 2014 04:00:00 -0000</pubDate><guid>http://xkcd.com/1440/</guid></item><item><title>Rack Unit</title><link>http://xkcd.com/1439/</link><description>&lt;img src="http://imgs.xkcd.com/comics/rack_unit.png" title="There's also nothing in the TOSes that says you can't let a dog play baseball in the server room!" alt="There's also nothing in the TOSes that says you can't let a dog play baseball in the server room!" /&gt;</description><pubDate>Mon, 27 Oct 2014 04:00:00 -0000</pubDate><guid>http://xkcd.com/1439/</guid></item><item><title>Houston</title><link>http://xkcd.com/1438/</link><description>&lt;img src="http://imgs.xkcd.com/comics/houston.png" title="'Oh, hey Mom. No, nothing important, just at work.'" alt="'Oh, hey Mom. No, nothing important, just at work.'" /&gt;</description><pubDate>Fri, 24 Oct 2014 04:00:00 -0000</pubDate><guid>http://xkcd.com/1438/</guid></item></channel></rss>
